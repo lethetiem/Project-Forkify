@@ -1,0 +1,28 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethetiem/Project-Forkify.git"
+  },
+  "author": "Le The Tiem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lethetiem/Project-Forkify/issues"
+  },
+  "homepage": "https://github.com/lethetiem/Project-Forkify#readme",
+  "dependencies": {
+    "core-js": "^3.24.1",
+    "parcel": "^2.7.0",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0"
+  }
+}
